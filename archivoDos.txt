@@ -2,3 +2,5 @@ Archivo para la segunda actividad del examen de recuperacion
 
 Parrafo #1 de user1
 Parrafo #2 de user1
+Parrafo #1 de user2
+Parrafo #2 de user2
