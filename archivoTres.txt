@@ -1,3 +1,5 @@
 Archivo inicial de la actividad 3 del examen de recuperacion
 
 Parrafo #1 de user3
+Parrafo #1 de user2
+Parrafo #2 de user2
