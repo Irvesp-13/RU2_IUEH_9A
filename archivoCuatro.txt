@@ -1,2 +1,7 @@
 Archivo para la actividad 4 del examen de recuperacion
 Parrafo #2 de main
+
+Parrafo #1 de user1
+Parrafo #2 de user1
+Parrafo #3 de user2
+Parrafo #2 de user2
